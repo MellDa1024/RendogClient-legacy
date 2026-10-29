@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/MellDa1024/RendogClientAsset/main/assets/RendogClient.png" style="width: 90%">
 </p>
 
-# 해당 1.12.2 RendogClient 프로젝트는 서버 버전업에 의해 종료되었습니다, 신규 버전인 1.20.4 버전 클라이언트는 [RendogClient-1.20.4](https://github.com/MellDa1024/RendogClient-1.20.4) 프로젝트를 참고해주세요.
+# 해당 1.12.2 RendogClient 프로젝트는 서버 버전업에 의해 종료되었습니다, 신규 버전 클라이언트는 [RendogClient](https://github.com/MellDa1024/RendogClient) 프로젝트를 참고해주세요.
 
 [Official RendogServer Discord](https://discord.gg/aKhYsfm)  
 RendogClient는 기존에 있던 무정부 서버 전용 클라이언트이면서도 오픈 소스 클라이언트인 "Lambda" 클라이언트의 포크 버전입니다.  
